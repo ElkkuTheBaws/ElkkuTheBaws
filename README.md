@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ElkkuTheBaws aka Eelis Koivusaari
 - 👀 I’m interested in software and game development with visual/auditive aspects
-- 🌱 I’m currently learning full stack development
 
 - Project folder has multiple projects that don't have public code. Click the projects to see links and insights.
 <!---
